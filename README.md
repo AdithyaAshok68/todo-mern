@@ -16,3 +16,6 @@ This is a full-stack Todo application consisting of two parts:
 1. Navigate to the `todo-web` directory.
 2. Install dependencies: `npm install`
 3. Start the frontend: `npm start`
+
+
+Replace the placeholder database URL in MONGO_URI with a valid MongoDB connection string. You can use MongoDB Atlas (cloud database) or a local MongoDB instance.
